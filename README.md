@@ -3,7 +3,7 @@
 </h2>
 
 <p>
-  - <b>I'm Computer Sciense Student at Veiga de Almeida University 🎓 and Full Stack Developer 💻</b> 
+  - <b>I'm Computer Science Student at Veiga de Almeida University 🎓 and Full Stack Developer 💻</b> 
 </p> 
 
 <p>
