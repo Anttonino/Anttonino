@@ -1,13 +1,14 @@
 <div align="center">
-<h1>Hi, I'm Victor👨🏻‍💻Thanks for visiting my Profile! </h1>
 
-<h2>I'm Full Stack Developer living in Rio de Janeiro, Brazil</h2>
+# Hi, I'm Victor👨🏻‍💻Thanks for visiting my Profile!
+
+## I'm Full Stack Developer living in Rio de Janeiro, Brazil
 
 I am a Computer Science student at Universidade Veiga de Almeida (UVA), where I also work as sports coordinator in computer science of the collegiate athletics.
 
 I also participate in the Rio de Janeiro City Hall Programmers project as a student of the Full-Stack Bootcamp (Javascript) taught by Generation Brasil. In this project I contribute in the classroom as a monitor and class representative.
 
-<h2> How to contact me </h2>
+## How to contact me 
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anttonino)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-antonino-085175210/) 
@@ -34,12 +35,12 @@ I also participate in the Rio de Janeiro City Hall Programmers project as a stud
    <p align="center">
      <img 
        align="center" 
-       height="200"
+       height="165"
        src="https://github-readme-stats.vercel.app/api?username=Anttonino&show_icons=true&include_all_commits=true&theme=tokyonight" alt="marcelo-rafael github stats" 
      />
      <img 
        align="center" 
-       height="200"
+       height="165"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anttonino&layout=compact&theme=tokyonight" 
      />
   </p>
