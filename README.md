@@ -1,22 +1,24 @@
 <div align="center">
 
-# Hi, I'm Victor👨🏻‍💻Thanks for visiting my Profile!
+# Hi, I am Victor 👨🏻‍💻 Thanks for visiting my Profile!
 
-## I'm Full Stack Developer living in Rio de Janeiro, Brazil
+### Full Stack Developer living in Rio de Janeiro, Brazil
 
-I am a Computer Science student at Universidade Veiga de Almeida (UVA), where I also work as sports coordinator in computer science of the collegiate athletics.
+Hello, since I was a child I have always been passionate about games and everything that involved science. Because of this passion at the age of 17, I entered computer science college and had my first contact with programming. At first I didn't do very well in the subject but over time I fell in love always wanting to learn more.
 
-I also participate in the Rio de Janeiro City Hall Programmers project as a student of the Full-Stack Bootcamp (Javascript) taught by Generation Brasil. In this project I contribute in the classroom as a monitor and class representative.
+I am currently part of the Programadores Cariocas project, a program run by the city of Rio de Janeiro that seeks young people in economic vulnerability to teach them how to take their first steps in a developer career. Through the program I was able to participate in the full-stack bootcamp (Javascript) at Generation Brazil where I collaborated in the classroom as a monitor and class representative
 
-## How to contact me 
+I'm always in the learning process and on my github you can see my projects and my evolution as a programmer 😃
 
+### Where to find me
+  
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anttonino)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-antonino-085175210/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.antonino12@gmail.com)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/ye3vzobk38hksrcztoe0eb59r)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victor_antonino__/)
 [![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/62692246)
-[![Playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://www.instagram.com/victor_antonino__/)
+[![Playstation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://psnprofiles.com/Victor-Antheos)
 
 </div>
 
