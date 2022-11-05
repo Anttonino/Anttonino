@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I am Victor 👨🏻‍💻 Thanks for visiting my Profile!
+# Hello, I am Victor 👨🏻‍💻 Thanks for visiting my Profile!
 
 ### Full Stack Developer living in Rio de Janeiro, Brazil
 
-Hello, since I was a child I have always been passionate about games and everything that involved science. Because of this passion at the age of 17, I entered computer science college and had my first contact with programming. At first I didn't do very well in the subject but over time I fell in love always wanting to learn more.
+Well, since i was a child i always have been passionate about games and everything that involved science. So, because of this passions at the 17 age i entered computer science college and i had my first contact with programming, using the C languange and i fell in love about it, even was not have the best expirence, but I always tried to learn more and more.
 
 I am currently part of the Programadores Cariocas project, a program run by the city of Rio de Janeiro that seeks young people in economic vulnerability to teach them how to take their first steps in a developer career. Through the program I was able to participate in the full-stack bootcamp (Javascript) at Generation Brazil where I collaborated in the classroom as a monitor and class representative
 
