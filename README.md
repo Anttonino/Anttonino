@@ -28,8 +28,7 @@ I'm always in the learning process and on my github you can see my projects and 
   <div align="center">
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,html,css,bootstrap,git,github"/>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nest,mysql,react,materialui,figma,vscode"
+    <img src="https://skillicons.dev/icons?i=c,javascript,typescript,html,css,bootstrap,git,github,nodejs,express,nest,mysql,react,materialui,vscode"/>
   </a>
 </p>
   </div>
