@@ -6,9 +6,11 @@
 
 Well, since i was a child i always have been passionate about games and everything that involved science. So, because of this passions at the 17 age i entered computer science college and i had my first contact with programming, using the C languange and i fell in love about it, even was not have the best expirence, but I always tried to learn more and more.
 
-I am currently part of the Programadores Cariocas project, a program run by the city of Rio de Janeiro that seeks young people in economic vulnerability to teach them how to take their first steps in a developer career. Through the program I was able to participate in the full-stack bootcamp (Javascript) at Generation Brazil where I collaborated in the classroom as a monitor and class representative
+Recently, I was part of the "Programadores Cariocas" project, promoted by the Rio de Janeiro City Hall, where I participated as a student in the Full-Stack (Javascript) Bootcamp provided by Generation Brazil. Throughout the course, I worked on several projects, including a social network based on UN Sustainable Development Goal 13, aiming to mobilize people engaged in the fight against climate change on the planet. Additionally, during the Bootcamp, I had the opportunity to collaborate in the classroom as a class representative, taking on a significant leadership role with my fellow students.
 
 I'm always in the learning process and on my github you can see my projects and my evolution as a programmer 😃
+
+### 📄 [My Resume](https://flowcv.com/resume/gi25uhwqnk)
 
 ### Where to find me
   
